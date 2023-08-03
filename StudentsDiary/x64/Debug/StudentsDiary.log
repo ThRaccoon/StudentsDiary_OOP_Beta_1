@@ -1,0 +1,9 @@
+﻿  Main.cpp
+  StudentsDiary.cpp
+C:\Users\thrac\source\repos\StudentsDiary\StudentsDiary\StudentsDiary.cpp(210,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thrac\source\repos\StudentsDiary\StudentsDiary\StudentsDiary.cpp(232,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thrac\source\repos\StudentsDiary\StudentsDiary\StudentsDiary.cpp(272,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thrac\source\repos\StudentsDiary\StudentsDiary\StudentsDiary.cpp(383,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\thrac\source\repos\StudentsDiary\StudentsDiary\StudentsDiary.cpp(383,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  StudentsDiary.vcxproj -> C:\Users\thrac\source\repos\StudentsDiary\x64\Debug\StudentsDiary.exe
